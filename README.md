@@ -6,7 +6,7 @@ User is always notified of number of remaining guesses.
 A way to grab a word to use for guessing.<br />
 Using a text file for input.<br />
 The text file consists of the words from which we need to guess.<br />
-We also need functions to guess:
+User also need functions to guess:
   1. If the user has actually inputed a single letter.
   2. If the inputted letter is in the hidden word.
   3. Print letters.
